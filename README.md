@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Anze12
 - 👀 I’m interested in Programming, writing, reading and well being lazy and comfy.
-- 🌱 I’m currently studying Software Engineering from FAST NUCES Islamabad.
+- 🌱 I’m currently studying Software Engineering.
 - 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me : Email me at- i222614@nu.edu.pk or anishra.ashfaq@gmail.com 
 - 😄 Pronouns: I/Me/Her
 - ⚡ Fun fact: I have a very very imaginative brain.
 
